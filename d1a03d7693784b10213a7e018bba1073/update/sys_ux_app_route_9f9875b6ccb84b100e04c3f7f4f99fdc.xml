@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="WEM App Config">939875b6cfb84b10c3766052b37f45ec</app_config>
+        <description/>
+        <extension_point/>
+        <fields>table,sysId</fields>
+        <icon/>
+        <interoperable>false</interoperable>
+        <name>KB</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>kb_view</route_type>
+        <screen_type display_value="KB">939875b64fb84b100ce1220df9e2e3dc</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-15 17:49:39</sys_created_on>
+        <sys_id>9f9875b6ccb84b100e04c3f7f4f99fdc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>KB</sys_name>
+        <sys_package display_value="WEM" source="x_378151_wem">d1a03d7693784b10213a7e018bba1073</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WEM">d1a03d7693784b10213a7e018bba1073</sys_scope>
+        <sys_update_name>sys_ux_app_route_9f9875b6ccb84b100e04c3f7f4f99fdc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-15 17:49:39</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=9f9875b6ccb84b100e04c3f7f4f99fdc"/>
+</record_update>

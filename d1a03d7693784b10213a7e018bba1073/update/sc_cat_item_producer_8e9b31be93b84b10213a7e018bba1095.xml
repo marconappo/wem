@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_producer">
+    <sc_cat_item_producer action="INSERT_OR_UPDATE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <allow_edit>false</allow_edit>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <can_cancel>false</can_cancel>
+        <category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</category>
+        <cc_render_type/>
+        <checked_out/>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<div><br /><img src="https://agenciatributaria.madrid.es/UnidadesDescentralizadas/UDCAgenciaTributaria/_ImagenesFormularios/ATM-GHA.358x100.png" alt="" /></div>
+<div>
+<p>Se facilitará la confección y presentación de la autoliquidación del impuesto de plusvalía, elaborando un borrador que le será remitido.</p>
+<p>Según el caso, nos pondremos en contacto telefónico con usted para su revisión o aclaraciones y, finalmente, recibida su conformidad con el borrador por correo electrónico, será presentado y le será facilitada la carta de pago correspondiente.</p>
+<p><img src="https://agenciatributaria.madrid.es/FWProjects/contribuyente/_imagenes/70x70/70x70.url.svg" alt="" width="40" height="40" /> madrid.es/go/asistenciaplusvalia</p>
+<p><img src="https://agenciatributaria.madrid.es/FWProjects/contribuyente/_imagenes/70x70/70x70.ojo.svg" alt="" width="40" height="40" /> Condiciones</p>
+<ul style="list-style-type: disc; list-style-position: inside;"><li style="list-style-type: inherit;">Este servicio se prestará exclusivamente al sujeto pasivo que lo ha solicitado, no atendiéndose en ningún caso a través de representante. Si hay varios sujetos pasivos, cada uno de ellos debe solicitar su autoliquidación.</li><li style="list-style-type: inherit;">Las autoliquidaciones que presenten alguna de las siguientes situaciones no se confeccionarán mediante este servicio:
+<ul style="list-style-type: disc; list-style-position: inside;"><li style="list-style-type: inherit;">Número de bienes igual o superior a 5.</li><li style="list-style-type: inherit;">Plusvalías de importe igual o superior a 500.000 euros.</li></ul>
+</li><li style="list-style-type: inherit;">Autoliquidaciones extemporáneas (fuera de plazo): la carta de pago sólo puede abonarse el mismo día de su emisión. El recargo correspondiente se calcula en el momento de la emisión de la carta de pago, por lo que será superior al que aparece en el borrador si ambos documentos no se generan en el mismo día.</li></ul>
+<p><img src="https://agenciatributaria.madrid.es/FWProjects/contribuyente/contenidos/03GestionesTramites/02PagosDomiciliaciones/02Pagos/PagoRecibos/690x3.linea.png" alt="" width="500" height="2" /></p>
+<p><img src="https://agenciatributaria.madrid.es/FWProjects/contribuyente/_imagenes/70x70/70x70.RepreCuando.svg" alt="" width="40" height="40" /> Solicitud</p>
+<ul style="list-style-type: disc; list-style-position: inside;"><li style="list-style-type: inherit;">Datos: la solicitud deberá recoger correctamente todos los datos del sujeto pasivo.</li><li style="list-style-type: inherit;">Documentación: deberá adjuntar toda la documentación necesaria para confeccionar la autoliquidación, que se puede consultar en <a title="Documentación autoliquidación plusvalía" href="https://agenciatributaria.madrid.es/portales/contribuyente/es/Impuestos-tasas-y-precios-publicos/Incremento-de-Valor-de-los-Terrenos-de-Naturaleza-Urbana-Plusvalia-/Documentacion-necesaria-para-la-plusvalia/?vgnextfmt&#61;default&amp;vgnextchannel&#61;d4df1b9e4449b810VgnVCM2000001f4a900aRCRD" target="_blank" rel="noopener noreferrer nofollow">este enlace</a>. Sin la documentación completa no se confeccionará la autoliquidación.</li><li style="list-style-type: inherit;">Efectos del envío de esta solicitud e información solicitada en la misma:
+<ul style="list-style-type: disc; list-style-position: inside;"><li style="list-style-type: inherit;">No supone la presentación ante la administración de ninguna autoliquidación.</li><li style="list-style-type: inherit;">No interrumpe ni suspende los plazos de obligación de presentación de la autoliquidación previstos en la ordenanza fiscal reguladora del impuesto.</li></ul>
+</li></ul>
+<p><img src="https://agenciatributaria.madrid.es/FWProjects/contribuyente/contenidos/03GestionesTramites/02PagosDomiciliaciones/02Pagos/PagoRecibos/690x3.linea.png" alt="" width="500" height="2" /></p>
+<p><img src="https://agenciatributaria.madrid.es/FWProjects/contribuyente/_imagenes/70x70/70x70.calendario-plazos.svg" alt="" width="40" height="40" /> Plazos</p>
+<p>Tras el envío de su solicitud en el plazo de 2 a 3 días laborables y siempre y cuando la solicitud cumpla con todos los requisitos:</p>
+<ul style="list-style-type: disc; list-style-position: inside;" type="disc"><li style="list-style-type: inherit;">Recibirá un correo electrónico de confirmación con el borrador de su autoliquidación adjunto para que lo revise y los siguientes pasos a realizar por su parte. En el plazo máximo de 24 horas, deberá devolver por correo electrónico el borrador firmado, preferentemente con firma electrónica; si no es posible, deberá adjuntar el documento de identidad escaneado para la comprobación de la firma. Posteriormente, se le remitirá la autoliquidación y la carta de pago. En otro caso, se cerrará su solicitud.</li><li style="list-style-type: inherit;">Si es necesario, desde el teléfono <a title="Teléfono Agencia Tributaria Madrid 915 880 723" href="https://agenciatributaria.madrid.es/portales/contribuyente/es/Atencion-al-contribuyente/Mas-informacion/915-880-723-telefono-de-llamadas-de-la-Agencia-Tributaria-del-Ayuntamiento-de-Madrid/?vgnextfmt&#61;default&amp;vgnextoid&#61;b32f0a14cfdc1810VgnVCM2000001f4a900aRCRD&amp;vgnextchannel&#61;8d84948435069710VgnVCM1000001d4a900aRCRD" target="_blank" rel="noopener noreferrer nofollow">915 880 723</a>, un gestor tributario le llamará para revisar su borrador y presentar y generar la carta de pago.</li><li style="list-style-type: inherit;">Si no recibe dicho correo confirmatorio, su solicitud no será atendida por esta vía y le rogamos que, en dicho caso, consulte en <a title="Plusvalía" href="https://madrid.es/plusvalia" target="_blank" rel="noopener noreferrer nofollow">madrid.es/plusvalia</a> las otras vías de presentación de su autoliquidación.</li></ul>
+</div>]]></description>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <location/>
+        <make_item_non_conversational>false</make_item_non_conversational>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Solicitud de elaboración del borrador de la plusvalía</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_save_as_draft>false</no_save_as_draft>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture/>
+        <post_insert_script><![CDATA[/**
+* This script is executed after the record is generated. 
+* `current` Is the GlideRecord produced by Record Producer. Use `current.update()` to update the record
+* To access the variables, use `producer.var1` where var1 is the name of the variable
+* To access the Record Producer use `cat_item`
+*/]]></post_insert_script>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=8e9b31be93b84b10213a7e018bba1095&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <redirect_url>generated_record</redirect_url>
+        <request_method/>
+        <roles/>
+        <save_options/>
+        <save_script><![CDATA[/**
+* This script is executed at every step save in Catalog Builder. 
+* This script is executed before `Script` is executed.
+* `current` Is the GlideRecord produced by Record Producer. 
+* To access the variables, use `producer.var1` where var1 is the name of the variable
+* To access the Record Producer use `cat_item`
+*/]]></save_script>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template display_value="AES Record Producer">211f71ca73202010ae42d31ee2f6a785</sc_template>
+        <script><![CDATA[/** This script is executed before the Record is generated
+* `current`- GlideRecord produced by Record Producer
+* Don't use `current.update()` or `current.insert()` as the record is generated by Record Producer
+* Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
+* Avoid `current.setAbortAction()` and generate a separate record
+* Use `producer.var1` to access variables
+*/]]></script>
+        <short_description>Servicio digital de elaboración del borrador de la plusvalía</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state/>
+        <sys_class_name>sc_cat_item_producer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-15 18:02:40</sys_created_on>
+        <sys_id>8e9b31be93b84b10213a7e018bba1095</sys_id>
+        <sys_mod_count>57</sys_mod_count>
+        <sys_name>Solicitud de elaboración del borrador de la plusvalía</sys_name>
+        <sys_package display_value="WEM" source="x_378151_wem">d1a03d7693784b10213a7e018bba1073</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WEM">d1a03d7693784b10213a7e018bba1073</sys_scope>
+        <sys_update_name>sc_cat_item_producer_8e9b31be93b84b10213a7e018bba1095</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-15 18:31:56</sys_updated_on>
+        <table_name>x_378151_wem_plusvalia</table_name>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <version>57</version>
+        <view/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_producer>
+    <sys_translated_text action="delete_multiple" query="documentkey=8e9b31be93b84b10213a7e018bba1095"/>
+    <fx_price action="delete_multiple" query="id=8e9b31be93b84b10213a7e018bba1095"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>8e9b31be93b84b10213a7e018bba1095</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-15 18:02:40</sys_created_on>
+        <sys_id>0e9b31be93b84b10213a7e018bba10ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-15 18:02:40</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

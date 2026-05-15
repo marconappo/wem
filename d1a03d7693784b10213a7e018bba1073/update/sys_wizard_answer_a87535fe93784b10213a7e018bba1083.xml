@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New Plusvalia</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Plusvalia</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">49fb6e42187232108bb255f46a373ade</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-15 17:35:48</sys_created_on>
+        <sys_id>a87535fe93784b10213a7e018bba1083</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Plusvalia</sys_name>
+        <sys_package display_value="WEM" source="x_378151_wem">d1a03d7693784b10213a7e018bba1073</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WEM">d1a03d7693784b10213a7e018bba1073</sys_scope>
+        <sys_update_name>sys_wizard_answer_a87535fe93784b10213a7e018bba1083</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-15 17:35:48</sys_updated_on>
+        <table/>
+        <target_url>x_378151_wem_plusvalia.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

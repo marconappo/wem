@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="187535fe93784b10213a7e018bba103c" extends="task" label="Plusvalia" max_length="40" name="x_378151_wem_plusvalia" text_index="true" type="collection">
+        <element label="Es consecuencia de un fallecimiento" max_length="40" name="es_consecuencia_de_un_fallecimiento" type="boolean"/>
+        <element choice="1" label="Documentación que aporta" max_length="40" name="documentacion_que_aporta" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Por diferencia entre los valores de transmisión y adquisición de los terrenos." sequence="1" value="metodo_de_estimacion_directa"/>
+                <element inactive_on_update="false" label="Resultado de multiplicar el valor catastral del suelo por el coeficiente vigente" sequence="0" value="metodo_objetivo"/>
+            </choice>
+        </element>
+        <element label="NIF/NIE/DNI" max_length="10" name="nif_nie_dni" type="string"/>
+        <element label="Correo electrónico" max_length="40" name="correo_electronico" type="string"/>
+        <element label="Nombre y apellidos" max_length="40" name="nombre_y_apellidos" type="string"/>
+        <element label="Tiene un documento público notarial" max_length="40" name="tiene_un_documento_publico_notarial" type="boolean"/>
+        <element label="Telefono" max_length="40" name="telefono" type="string"/>
+    </element>
+</database>

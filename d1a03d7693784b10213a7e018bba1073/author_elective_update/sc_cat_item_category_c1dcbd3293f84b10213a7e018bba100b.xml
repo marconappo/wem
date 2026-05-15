@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Solicitud de elaboración del borrador de la plusvalía">8e9b31be93b84b10213a7e018bba1095</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-15 18:08:04</sys_created_on>
+        <sys_id>c1dcbd3293f84b10213a7e018bba100b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Solicitud de elaboración del borrador de la plusvalía</sys_name>
+        <sys_package display_value="WEM" source="x_378151_wem">d1a03d7693784b10213a7e018bba1073</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WEM">d1a03d7693784b10213a7e018bba1073</sys_scope>
+        <sys_update_name>sc_cat_item_category_c1dcbd3293f84b10213a7e018bba100b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-15 18:08:04</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="WEM">d1a03d7693784b10213a7e018bba1073</application>
+        <file_path/>
+        <instance_id>4ca579fcebd8ee90cbdefceacad0cd0a</instance_id>
+        <instance_name>dev299504</instance_name>
+        <name>sc_cat_item_category_c1dcbd3293f84b10213a7e018bba100b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Solicitud de elaboración del borrador de la plusvalía">8e9b31be93b84b10213a7e018bba1095</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-15 18:08:04</sys_created_on><sys_id>c1dcbd3293f84b10213a7e018bba100b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Solicitud de elaboración del borrador de la plusvalía</sys_name><sys_package display_value="WEM" source="x_378151_wem">d1a03d7693784b10213a7e018bba1073</sys_package><sys_policy/><sys_scope display_value="WEM">d1a03d7693784b10213a7e018bba1073</sys_scope><sys_update_name>sc_cat_item_category_c1dcbd3293f84b10213a7e018bba100b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-15 18:08:04</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1192641534</payload_hash>
+        <record_name>Can We Help You?.Solicitud de elaboración del borrador de la plusvalía</record_name>
+        <reverted_from/>
+        <source>77e0b93693784b10213a7e018bba10c0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-15 18:08:04</sys_created_on>
+        <sys_id>0ddcbd3293f84b10213a7e018bba1012</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19e2cd2f83a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-15 18:08:04</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>c5dcbd32d6f84b105f60339a09b4d511</update_guid>
+        <update_guid_history>c5dcbd32d6f84b105f60339a09b4d511:1192641534</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Solicitud de elaboración del borrador de la plusvalía">a45dbd7293f84b10213a7e018bba101b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-15 18:10:13</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>2a41646653214df8ab9a5bac9e6fc1e4</sys_id>
+        <sys_metadata>c1dcbd3293f84b10213a7e018bba100b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Solicitud de elaboración del borrador de la plusvalía</sys_name>
+        <sys_package display_value="WEM" source="x_378151_wem">d1a03d7693784b10213a7e018bba1073</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="WEM">d1a03d7693784b10213a7e018bba1073</sys_scope>
+        <sys_scope_delete display_value="">6d11b4a421464e30922377f7aa6c4690</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_c1dcbd3293f84b10213a7e018bba100b</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_c1dcbd3293f84b10213a7e018bba100b">0ddcbd3293f84b10213a7e018bba1012</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-15 18:10:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

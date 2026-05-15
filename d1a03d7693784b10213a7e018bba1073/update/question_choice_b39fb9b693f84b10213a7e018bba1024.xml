@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="Documentación que aporta">904ebdf293f84b10213a7e018bba105e</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-15 18:20:16</sys_created_on>
+        <sys_id>b39fb9b693f84b10213a7e018bba1024</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Por diferencia entre los valores de transmisión y adquisición de los terrenos</sys_name>
+        <sys_package display_value="WEM" source="x_378151_wem">d1a03d7693784b10213a7e018bba1073</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WEM">d1a03d7693784b10213a7e018bba1073</sys_scope>
+        <sys_update_name>question_choice_b39fb9b693f84b10213a7e018bba1024</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-15 18:29:02</sys_updated_on>
+        <text>Por diferencia entre los valores de transmisión y adquisición de los terrenos</text>
+        <value>metodo_de_estimacion_directa</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=b39fb9b693f84b10213a7e018bba1024"/>
+</record_update>
